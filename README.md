@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Feyzullah%20TEMEL&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Feyzullah%20TEMEL&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-5%20Years-8E2DE2?style=for-the-badge" alt="Exp" />
-  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-4A00E0?style=for-the-badge" alt="Role" />
-  <img src="https://img.shields.io/github/followers/feyzullahtemel0?label=Followers&style=for-the-badge&color=8338EC" alt="Followers" />
+  <img src="https://img.shields.io/badge/Experience-5%20Years-8E2DE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-4A00E0?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/feyzullahtemel0?label=Followers&style=for-the-badge&color=8338EC" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ Merhaba! Ben Feyzullah. Verinin gücünü modern web teknolojileriyle birleştir
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,dotnet,angular,react,bootstrap,tailwind,docker,firebase,mysql,mssql,git,arduino&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,dotnet,angular,react,bootstrap,tailwind,docker,firebase,mysql,mssql,git,arduino&perline=9" />
 </p>
 
 ---
@@ -32,12 +32,12 @@ Merhaba! Ben Feyzullah. Verinin gücünü modern web teknolojileriyle birleştir
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feyzullahtemel0&show_icons=true&theme=react&hide_border=true&display_format=v2" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyzullahtemel0&layout=compact&theme=react&hide_border=true" width="42%" alt="Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=feyzullahtemel0&show_icons=true&theme=react&hide_border=true&count_private=true" width="480" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyzullahtemel0&layout=compact&theme=react&hide_border=true" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=feyzullahtemel0&theme=dracula&no-frame=true&column=7" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=feyzullahtemel0&theme=dracula&no-frame=true&column=7" />
 </p>
 
 ---
@@ -46,13 +46,13 @@ Merhaba! Ben Feyzullah. Verinin gücünü modern web teknolojileriyle birleştir
 
 <p align="center">
   <a href="https://www.linkedin.com/in/feyzullahtemel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:feyzullaht421@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=feyzullahtemel0&style=flat-square&color=blueviolet" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=feyzullahtemel0&style=flat-square&color=blueviolet" />
 </p>
