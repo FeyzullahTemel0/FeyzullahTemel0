@@ -1,65 +1,63 @@
-<!-- ───────────────═【  B A N N E R  】═─────────────── -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Feyzullah%20TEMEL%20🚀&width=1000&height=200" alt="banner"/>
-  <br>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Feyzullah%20TEMEL&fontSize=70&animation=fadeIn&fontAlignY=35" width="1000" />
 </p>
 
-<!-- ───────────────═【  Q U I C K   F A C T S 】═─────────────── -->
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Years+Coding&message=5&color=8E2DE2&style=flat-square&logo=github" />
-  <img src="https://img.shields.io/static/v1?label=Open+Source&message=Lover&color=4A00E0&style=flat-square&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=feyzullahtemel0&style=flat-square&color=8338EC" alt="views"/>
+  <img src="https://img.shields.io/badge/Experience-5%20Years-8E2DE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-4A00E0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/feyzullahtemel0?label=Followers&style=for-the-badge&color=8338EC" />
 </p>
 
-<!-- ───────────────═【  H A K K I M D A 】═─────────────── -->
+---
+
 ### 💡 Hakkımda
-- 🔭 Şu an ** Python, Makine Öğrenmesi, Derin Öğrenme, Yapay Zeka Matematiği, Angular, JS, HTML/CSS, TypeScript, ASP.NETCore WebAPI ** odaklı **Full‑Stack** projeler geliştiriyorum.  
-- 🤖 İlgi: **Yapay Zekâ / Makine Öğrenmesi /Derin Öğrenme / Yapay Zeka Matematiği**  
-- 🌱 Geliştirdiğim yan beceriler: **TypeScript, MSSQL, Firebase, SQLİTE, PYTHON**  
-- ✉️ E‑posta: <a href="mailto:feyzullaht421@gmail.com">feyzullaht421@gmail.com</a>  
 
-<!-- ───────────────═【  T E C H   S T A C K 】═─────────────── -->
-### 🛠️ Kullandığım Teknolojiler
-<!-- Tech‑stack ikonları -->
+Merhaba! Ben Feyzullah. Verinin gücünü modern web teknolojileriyle birleştirmeyi seven bir **Full-Stack Geliştiriciyim.** Yapay zeka matematiğinden front-end mimarilerine kadar geniş bir yelpazede çözümler üretiyorum.
+
+- 🚀 **Odak Noktam:** Python tabanlı Yapay Zeka (ML/DL) ve ASP.NET Core & Angular mimarileri.
+- 🤖 **İlgi Alanları:** Derin Öğrenme, Yapay Zeka Matematiği ve Otonom Sistemler.
+- 🌱 **Sürekli Gelişim:** TypeScript ve Cloud tabanlı (Firebase) mikroservisler üzerinde çalışıyorum.
+- ✉️ **İletişim:** [feyzullaht421@gmail.com](mailto:feyzullaht421@gmail.com)
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css&perline=6" /><br>
+  <img src="https://skillicons.dev/icons?i=dotnet,angular,react,bootstrap,tailwind,docker,firebase,mysql,mssql,git,arduino&perline=6" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dotnet,csharp,angular,react,js,ts,html,css,bootstrap,docker,firebase,mysql,arduino,git&perline=9" />
-  <!-- SQL Server yok: yerine rozet -->
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=feyzullahtemel0&show_icons=true&theme=react&hide_border=true&display_format=v2" alt="Feyzullah Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyzullahtemel0&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
-
-<!-- ───────────────═【  G I T H U B   K U P A L A R I 】═──────── -->
-### 🏆 GitHub Kupaları
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=feyzullahtemel0&theme=algolia&row=1&margin-w=15&margin-h=15" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=feyzullahtemel0&theme=dracula&no-frame=true&column=7" alt="trophies" />
 </p>
 
-<!-- ───────────────═【  İ S T A T İ S T İ K L E R 】═──────────── -->
-### 📊 İstatistikler
-<p align="center">
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=feyzullahtemel0&show_icons=true&rank_icon=percentile&hide_border=true&theme=tokyonight"
-       alt="stats"/>
-  <img height="180"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyzullahtemel0&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"
-       alt="top langs"/>
-</p>
+---
 
-<!-- ───────────────═【  C O N T A C T 】═─────────────── -->
-### 📫 İletişim
+### 📬 Benimle Bağlantı Kur
+
 <p align="center">
   <a href="https://www.linkedin.com/in/feyzullahtemel/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:feyzullaht421@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:feyzullaht421@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<!-- ───────────────═【  F O O T E R 】═─────────────── -->
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/feyzullahtemel0/feyzullahtemel0/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
-  <br>
-  ⭐ Faydalı bulduysan takip ve ★ bırakmayı unutma!
+  <img src="https://komarev.com/ghpvc/?username=feyzullahtemel0&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
