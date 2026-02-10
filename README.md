@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🚀 **1+ years** of experience in software development  
+- 🚀 **4+ month ** of experience in software development  
 - 🧠 Specialized in **Artificial Intelligence, Machine Learning & Deep Learning**
 - 🏗️ Building **Full-Stack applications** with scalable architectures  
 - 📐 Interested in **AI Mathematics & Model Optimization**
