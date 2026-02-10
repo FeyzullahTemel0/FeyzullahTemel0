@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Feyzullah%20TEMEL&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-5%20Years-8E2DE2?style=for-the-badge" />
@@ -31,14 +31,14 @@ Merhaba! Ben Feyzullah. Verinin gücünü modern web teknolojileriyle birleştir
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feyzullahtemel0&show_icons=true&theme=react&hide_border=true&count_private=true" width="480" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyzullahtemel0&layout=compact&theme=react&hide_border=true" width="350" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=feyzullahtemel0&show_icons=true&theme=react&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyzullahtemel0&layout=compact&theme=react&hide_border=true" height="170" />
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=feyzullahtemel0&theme=dracula&no-frame=true&column=7" />
-</p>
+</div>
 
 ---
 
